@@ -10,5 +10,6 @@
     <access origin="*" />
     <preference name="windowBackground" value="#FFF" />
     <permission name="call" />
-  
+  <preference name="autoUpdate" value="true"/>
+<preference name="smartUpdate" value="true" />
 </widget>
